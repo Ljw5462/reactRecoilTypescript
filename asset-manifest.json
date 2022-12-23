@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactRecoilTypescript/static/css/main.72703ff0.css",
+    "main.js": "/reactRecoilTypescript/static/js/main.1bb5a074.js",
+    "static/js/787.c933b299.chunk.js": "/reactRecoilTypescript/static/js/787.c933b299.chunk.js",
+    "index.html": "/reactRecoilTypescript/index.html",
+    "main.72703ff0.css.map": "/reactRecoilTypescript/static/css/main.72703ff0.css.map",
+    "main.1bb5a074.js.map": "/reactRecoilTypescript/static/js/main.1bb5a074.js.map",
+    "787.c933b299.chunk.js.map": "/reactRecoilTypescript/static/js/787.c933b299.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72703ff0.css",
+    "static/js/main.1bb5a074.js"
+  ]
+}
